@@ -1,0 +1,5 @@
+tkcalendar
+pyttsx3
+bcrypt
+Pillow
+pystray
